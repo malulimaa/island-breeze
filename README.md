@@ -25,8 +25,6 @@ Os dados meteorológicos e as informações de localização são obtidos pela A
   <img src="src/assets/images/docs/screenshot.jpeg" alt="Prévia do IslandBreeze mostrando o clima atual e a previsão do tempo" width="90%">
 </p>
 
-> Para adicionar sua imagem, salve a captura de tela como `screenshot.png` dentro de uma pasta `docs` na raiz do projeto. Se preferir outro caminho ou nome, atualize o `src` acima.
-
 ## ☀️ Funcionalidades
 
 - **Buscar cidades e ilhas:** encontre lugares pelo nome e selecione uma sugestão.
