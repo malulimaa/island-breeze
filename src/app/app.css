@@ -349,7 +349,7 @@
 .section-heading { display: flex; align-items: end; justify-content: space-between; margin-bottom: 20px; padding: 0 8px; }
 .section-heading h2 { margin: 0; color: #234f5b; font-size: clamp(1.6rem, 3vw, 2.25rem); font-weight: 900; letter-spacing: -.035em; }
 .day-note { color: #4e7980; font-size: .85rem; font-weight: 800; }
-.day-note span { margin: 0 6px; color: #55a470; }
+.day-note span.dot { margin: 0 6px; color: #55a470; }
 
 .forecast-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
 .forecast-card {
@@ -553,7 +553,7 @@
 .night-theme .hero-art::before { border-color: rgba(255,236,167,.16); }
 .night-theme .day-note,
 .night-theme .weekly-location { color: #9cadc2; }
-.night-theme .day-note span,
+.night-theme .day-note span.dot,
 .night-theme .weekly-location strong { color: #f0d178; }
 .night-theme .forecast-card,
 .night-theme .weekly-card {
